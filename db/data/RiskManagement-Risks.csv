@@ -1,0 +1,4 @@
+ID;title;prio;descr;impact;criticality;miti_ID;supplier_BusinessPartner
+77be5708-65f6-436f-a48a-4d535188f9f0;Sap;Muthu;Muthuramsapid;123;456;;
+73b937ce-aad8-4bee-88ed-8e2cc10c0f34;btp;prem;premsapid;345;789;;
+04ba15bb-f84d-46c0-a455-fef7c2a261ab;btp;viswa;viswasapid;678;101;;
